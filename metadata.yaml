@@ -1,0 +1,32 @@
+_repo: Tiger-Cat_32630
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32630-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Keller, David H. (David Henry)
+    aliases:
+    - Keller, David Henry
+    - Cecil, Henry
+    birthdate: 1880
+    deathdate: 1966
+    gutenberg_agent_id: '32308'
+    url: http://www.gutenberg.org/2009/agents/32308
+    wikipedia: http://en.wikipedia.org/wiki/David_H._Keller
+description: ''
+gutenberg_issued: '2010-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32630'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Italy -- Fiction'
+- !lcsh 'Horror tales'
+title: Tiger Cat
+url: http://www.gutenberg.org/ebooks/32630
